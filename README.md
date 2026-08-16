@@ -519,27 +519,6 @@ The backend provides structured error handling for situations such as:
 * Cloud deployment
 * Docker support
 
----
-
-# 📸 Screenshots
-
-Add screenshots of the application here:
-
-```text
-Dashboard
-Company Management
-Product Management
-Login Page
-```
-
-Example:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
----
-
 # 👩‍💻 Author
 
 **Taniya Majumder**
